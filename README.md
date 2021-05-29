@@ -1,5 +1,5 @@
 # Python-SocketIO-Client-Server
-Implementing SocketIO client and server using python.
+Implementing SocketIO client and server using python. Bidirectional communication between SocketIO client and SocketIO server.
 
 ## To run the code
     
